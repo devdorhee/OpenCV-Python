@@ -1,0 +1,2 @@
+# OpenCV-Python
+OpenCV-Python으로 배우는 영상 처리 및 응용 예제 소스
